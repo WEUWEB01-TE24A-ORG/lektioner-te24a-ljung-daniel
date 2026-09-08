@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Lavishly+Yours&display=swap');
+body {
+    background-image: url(./bilder/nathan-hurst-BgBTv96kEW0-unsplash.jpg);
+    background-size: cover;
+    
+}
+h1 {
+    font-family: "Lavishly Yours", cursive;
+    color: azure;
+    font-size: 60px;
+}
+h2 {
+    font-family: "Lavishly Yours", cursive;
+    font-size: 30px;
+    margin-left: 50px;
+}
+p {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 20px;
+    margin-left: 50px;
+    background-color:rgba(255, 255, 255, 0.47);
+    width: 300px;
+    padding: 30px;
+    border-radius: 20px;
+}
+a {}
