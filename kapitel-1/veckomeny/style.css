@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&family=Rancho&display=swap');
+
+body {}
+table {
+    background-image: url(./bilder/marcel-strauss-E7DsoC0mcpw-unsplash.jpg);
+}
+caption {
+    background-image: url(./bilder/meg-KzJunPli4VA-unsplash.jpg);
+    font-size: 50px;
+    padding: 20px;
+    font-family: "Lavishly Yours", cursive;
+}
+tr {}
+th {
+    font-size: 30px;
+    padding: 10px;
+      font-family: "Rancho", cursive;
+}
+td {
+    font-size: 16px;
+    padding: 20px;
+      font-family: "Rancho", cursive;
+}
+img {
+    width: 250px;
+}
