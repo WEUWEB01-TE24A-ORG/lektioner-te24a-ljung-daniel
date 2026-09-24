@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&family=Vujahday+Script&display=swap');
+
+body{   
+    background-image: url(./bilder/redd-francisco-P2pMvhoiW10-unsplash\ \(1\).jpg);
+    width: 600px;
+    background-repeat:repeat-y ;
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: "Vujahday Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgba(0, 0, 0, 0.100);
+}
+img{
+    width: 400px;
+    border-radius: 50px;
+}
+table{
+    padding: 20px;    
+    ;}
+tr{}
+th{
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.400);
+    color: rebeccapurple;
+    font-family: "Vujahday Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+td{
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.400);
+    color: black;
+    font-family: "Rancho", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+    color: white;
+    font-family: "Vujahday Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgba(0, 0, 0, 0.100);
+}
+p{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.200);
+}
