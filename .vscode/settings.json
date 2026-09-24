@@ -35,4 +35,5 @@
     "comments": "",
     "textMateRules": []
 },
+      "chat.disableAIFeatures": true
 }
