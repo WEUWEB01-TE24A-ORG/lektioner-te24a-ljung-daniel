@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    background-color: rgba(86, 86, 221, 0.567);
+}
+table{
+    background-color: rgb(0, 0, 0);
+}
+caption{
+    font-size: 50px;
+     font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+tr{
+    font-size: 20px;
+}
+th{
+    font-size: 25px;
+     font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+td{
+    padding: 30px;
+    width: 300px;
+     font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+img{
+    width: 15px;
+}
+tr:nth-child(even) {
+    background-color: #3f4fdf;
+}
+tr:nth-child(odd) {
+    background-color: #5441ff;
+}
+tr:nth-child(2) {
+    background-color: #00ff0d;
+}
+tr:nth-child(3) {
+    background-color: #fffb00;
+}
+tr:nth-child(4) {
+    background-color: #ff0000;
+}
