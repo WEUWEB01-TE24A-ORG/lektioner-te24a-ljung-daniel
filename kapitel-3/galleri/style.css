@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&family=Rye&display=swap');
+
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Färgpalette */
+:root{
+    --smart-blue: #0466c8ff;
+--sapphire: #0353a4ff;
+--regal-navy: #023e7dff;
+--prussian-blue: #002855ff;
+--prussian-blue-2: #001845ff;
+--prussian-blue-3: #001233ff;
+--twilight-indigo: #33415cff;
+--blue-slate: #5c677dff;
+--slate-grey: #7d8597ff;
+--lavender-grey: #979dacff;
+}
+/* sidans utseende */
+body{
+    background-color: #5c677dff;
+}
+div.kontainer{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+/* sidans rubrik & intro */
+h1{
+    font-size: 50px;
+    font-family: "Jim Nightshade", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+p.intro{
+    font-size: 30px;
+    font-family: "Jim Nightshade", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Boxarnas utseende */
+div.box{
+    border-radius: 1px;
+    margin-bottom: 30px;
+    background-color: #979dacff;
+    padding: 50px;
+    display: flex;
+    gap: 30px;
+}
+.right{
+    flex-direction: row-reverse;
+}
+img{
+    width: 50%;
+}
+p.bildtext{
+    font-size: 18px;
+    font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
