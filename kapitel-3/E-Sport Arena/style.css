@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Monoton&display=swap');
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+:root{
+    --ink-black: #01161eff;
+--dark-teal: #124559ff;
+--air-force-blue: #598392ff;
+--ash-grey: #aec3b0ff;
+--beige: #eff6e0ff;
+}
+
+body{
+    width: auto;
+    background-color: #124559ff;
+}
+.kolumner1{
+    display: flex;
+    gap: 50px;
+}
+.kolumner2{
+    display: flex;
+    gap: 50px;
+}
+.kontainer{
+    width: 900px;
+    padding: 50px;
+    background-color: #aec3b0ff;
+     margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.news{
+    text-align: center;
+    font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+.ruta{
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #01161eff;
+    width: 350px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: #598392ff;
+    display: flex;
+    gap: 10px;
+}
+.ruta1{
+     width: 350px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: #598392ff;
+    display: flex;
+    gap: 10px;
+}
+img{
+    width: 30%;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: #01161eff;
+}
+.ruta{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
